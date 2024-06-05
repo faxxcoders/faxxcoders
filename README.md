@@ -7,7 +7,7 @@ src="https://cardivo.vercel.app/api?name=Faxx&description=Hi,%20i%27m%20a%20just
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/miftahganzz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/faxxcoders/count.svg?"  />
 </div>
 
 ###
